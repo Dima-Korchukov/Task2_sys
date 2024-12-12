@@ -1,4 +1,0 @@
-D:/here/lab2_calc/calculator_project/build/CMakeFiles/calculator.dir
-D:/here/lab2_calc/calculator_project/build/CMakeFiles/calculator_app.dir
-D:/here/lab2_calc/calculator_project/build/CMakeFiles/edit_cache.dir
-D:/here/lab2_calc/calculator_project/build/CMakeFiles/rebuild_cache.dir
