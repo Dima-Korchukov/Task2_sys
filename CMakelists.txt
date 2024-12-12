@@ -1,0 +1,10 @@
+cmake_minimum_required(VERSION 3.10)
+project(calculator_project)
+
+# Бібліотека
+add_library(calculator STATIC src/calculator.c)
+
+# Виконуваний файл
+add_executable(calculator_app src/main.c)
+target_include_directories(calculator_app PRIVATE include)
+target_link_libraries(calculator_app calculator)
